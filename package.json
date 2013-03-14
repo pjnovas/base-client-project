@@ -1,0 +1,32 @@
+{
+  "author": "Pablo Novas",
+  "name": "base-client-project",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "http://example.com",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    
+    "jshint": "0.9.0",
+    
+    "grunt": "0.4.0rc7",
+    
+    "grunt-commonjs": "~0.2.0",
+    "grunt-commonjs-handlebars": "~0.1.0",
+    
+    "grunt-contrib-watch": "0.2.0rc7",
+    "grunt-contrib-concat": "0.1.2rc6",
+    "grunt-contrib-jshint": "0.1.1rc5",
+    "grunt-contrib-clean": "0.4.0rc6",
+    "grunt-contrib-copy": "0.4.0rc7",
+    "grunt-contrib-uglify": "0.1.1rc6",
+    "grunt-contrib-less": "0.5.0rc7",
+    
+    "webmake": "0.3.x"
+  }
+}
