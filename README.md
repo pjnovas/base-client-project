@@ -84,7 +84,8 @@ npm install -g wup
 
 Step up on folder ```./mockups``` and run
 ```bash
+cd mockups/
 wup
 ```
-Open your browser and go to ```http://localhost:8080/mockup_file.html``` 
+Open your browser and go to ```http://localhost:8080``` 
 
